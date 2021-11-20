@@ -1,6 +1,6 @@
 # AI-Gaming
 
-![](https://myoctocat.com/assets/images/base-octocat.svg)
+![](https://github.com/Aravind-11/Multi-Agent-RL/blob/main/Screenshot%202021-11-20%20at%209.29.16%20PM.png)
 # Problem Statement
 Two RL agents, player A and player b (capital A denoting the player has the ball ) compete in an 8*8 grid environment, having 5 discrete actions ( up, down, left, right, and stationary ) to score a goal at the coordinate defined in the environment.
 
